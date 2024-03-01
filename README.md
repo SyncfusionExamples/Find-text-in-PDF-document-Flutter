@@ -21,3 +21,5 @@ $ flutter pub get
 $ flutter run
 
 ```
+## Blog
+<a href="https://www.syncfusion.com/blogs/post/5-easy-ways-to-find-text-in-pdf-documents-in-flutter.aspx">5 Easy Ways to Find Text in PDF Documents in Flutter</a>

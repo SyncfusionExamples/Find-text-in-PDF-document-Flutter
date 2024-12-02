@@ -1,6 +1,6 @@
 # Find text
 
-This repository contains examples to find text from PDF documents in Flutter apps using Syncfusion PDF Flutter library.
+This repository contains examples to find text from PDF documents in Flutter apps using Syncfusion&reg; PDF Flutter library.
 
 ## Steps to find text from a PDF document:
 
